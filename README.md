@@ -9,8 +9,6 @@ Track your expenses, visualize your spending habits, and manage your monthly bud
 ---
 
 ## 📸 Preview
-
-> Add a screenshot of the application here.
 <img width="1273" height="692" alt="Screenshot 2026-08-06 224042" src="https://github.com/user-attachments/assets/1130724d-776e-4c58-a1f7-010d1168b5ae" />
 
 ```
